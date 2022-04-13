@@ -1,7 +1,7 @@
 ### Hi there 👋
 Im a front end developer student att Medieinstitutet in Malmö
 
-🌱 I’m currently learning Node.js, socket io and javascript<br>
+🌱 I’m currently learning Node.js, socket io, React and javascript<br>
 🤔 Looking for internship for fall 2022<br>
 📫 How to reach me: Josefine.Ahlstedt@gmail.com<br>
 😄 Pronouns: She<br>
