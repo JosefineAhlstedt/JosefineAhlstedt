@@ -1,9 +1,10 @@
 ### Hi there 👋
-Im a front end developer student att Medieinstitutet in Malmö
+Im a junior front end developer, stuided att Medieinstitutet in Malmö
 
-🌱 I’m currently learning Node.js, socket io, React and javascript<br>
+🌱 I have the most experience with React even though solidJS was a great experience. <br>
+🌱 Studied and worked with WSAG, make the internet accessible. <br>
 📫 How to reach me: Josefine.Ahlstedt@gmail.com<br>
-😄 Pronouns: She<br>
+😄 Experience: 8 months internship and 6 months fulltime hire. Worked with HIab.com, astrid-barn.se and Cognibotics.com <br>
 
 <!--
 **JosefineAhlstedt/JosefineAhlstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
